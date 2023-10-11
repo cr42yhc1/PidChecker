@@ -10,6 +10,7 @@ It also calculates the start monitoring time, end running time, and total runnin
 **快速使用**（需要配置send_message.sh):python pid_ckecker.py -p <pid> -l <label>
 
 Detailed instructions and configuration methods will be updated later.
+
 详细的使用和配置方法将在后面更新。
 
 原始项目(original project from)：
